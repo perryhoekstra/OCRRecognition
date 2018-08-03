@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CameraContentDemoActivity!</string>
+    <string name="app_name">OCRRecognition</string>
+    <string name="camera_permission_explanation">The camera is necessary to capture the member card image</string>
+    <string name="camera_permission_title">Camera Permission</string>
+    <string name="msg_sorry">Sorry, but we need permission to continue!</string>
+    <string name="msg_no_camera">I cannot find a camera app!</string>
+    <string name="msg_no_member_card">I cannot find a member card image on your phone</string>
+    <string name="msg_no_viewer">I cannot find an image viewer app that supports a content: Uri</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
